@@ -1,6 +1,7 @@
 import ProfileCard from "./components/ProfileCard";
 import SearchBar from "./components/SearchBar";
 import Toggle from "./components/Toggle";
+import './scss/main.scss'
 
 export default function App() {
   return (
